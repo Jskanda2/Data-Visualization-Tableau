@@ -29,10 +29,13 @@ with children influenced or helped the survival rate.
 
 4. I used packed bubble charts to display data in a cluster of circles. Dimensions define the individual bubbles, and measures define the size and color of the individual circles.
 
-5. I used “Viz in Tooltip” to users hover over a mark, the tooltip displays relevant data and details from another visualization filtered to that mark. Also I used advanced highlight actions using the Actions dialog box. There I can specify source and target sheets and the fields I want to use for highlighting. 
-  •	Hover - Rest the pointer over a mark in the view to run the action. This option works well for highlight and filter actions within a dashboard.
+5. I used “Viz in Tooltip” to users hover over a mark, the tooltip displays relevant data and details from another visualization filtered to that mark. Also I used advanced highlight actions using the Actions dialog box. There I can specify source and target sheets and the fields I want to use for highlighting.
+
+    •	Hover - Rest the pointer over a mark in the view to run the action.
+      This option works well for highlight and filter actions within a dashboard.
   
-  •	Select - Click a mark in the view to run the action. This option works well for all types of actions.
+    •	Select - Click a mark in the view to run the action.
+      This option works well for all types of actions.
 
 #### Feedback:
 
