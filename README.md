@@ -9,7 +9,9 @@ This project will touch on the overarching attitudes and beliefs important to ef
 Such as:
 
 •	Visualization is a dialog
+
 •	Showcasing and sharing visualizations with others
+
 •	Visualization is a fluid process that typically requires multiple iterations of improvements.
 
 What I learn?
@@ -17,7 +19,9 @@ What I learn?
 I able to:
 
 •	Demonstrate the ability to choose optimal visual elements to encode data and critically assess the effectiveness of a visualization
+
 •	Communicate a story or finding to the appropriate audience using interactive visualizations
+
 •	Undergo the iterative process of creating a visualization, and build interactive visualizations with Tableau
 
 Why is this Important to my Career?
