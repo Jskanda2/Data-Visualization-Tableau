@@ -19,20 +19,23 @@ had an effect on their survival rate. 3rd class passengers did not survive well 
 3.	Gender also played a close role. "Women and children" had chances to survive more than men. So the Class of passenger and the women
 with children influenced or helped the survival rate.
 
-•	Design: explain any design choices you made including changes to the visualization after collecting feedback
-•	Feedback: feedback received from others from the first sketch to the final visualization
-•	Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
-•	The final data set file used for the graphic (usually .csv)
-It can take us up to a week to grade this project, but in most cases it is much faster. You will receive an email when your submission has been reviewed.
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at dataanalyst-project@udacity.com.
+## Design: 
 
+1. I use bar charts to compare data across categories. I create a bar chart by placing a dimension on the rows shelf and a measure on the columns shelf, or vice versa for the project. A bar chart uses the Bar mark type.
 
-Feedback
-Share your visualization with at least one other person and document their feedback. There are many ways to get feedback, and more
-feedback is generally better! Here are some options.
+2. I used filters to view data in the bar chart or packed bubble chart, I can filter out the data.A text table uses the text mark type. 
 
-Share your visualization with others in person and have them think aloud as they read and explore the graphic so you can document
-what stands out to them and how they interpret the graphic.
+3. I used highlight tables to compare categorical data using color and used color palette to diverging. Changed the color palette and to make the colors more distinct.
+
+4. I used packed bubble charts to display data in a cluster of circles. Dimensions define the individual bubbles, and measures define the size and color of the individual circles.
+
+5. I used “Viz in Tooltip” to users hover over a mark, the tooltip displays relevant data and details from another visualization filtered to that mark. Also I used advanced highlight actions using the Actions dialog box. There I can specify source and target sheets and the fields I want to use for highlighting. 
+•	Hover - Rest the pointer over a mark in the view to run the action. This option works well for highlight and filter actions within a dashboard.
+•	Select - Click a mark in the view to run the action. This option works well for all types of actions.
+
+## Feedback:
+
+Feedback received from others from the first sketch to the final visualization (explain any design choices you made including changes to the visualization after collecting feedback)
 Share a link to your project in the Data Analyst Nanodegree Slack and ask others to share constructive criticisms. Be sure to offer
 advice to others who are seeking feedback too!
 You might need to ask specific questions to prompt the reader. Here are some questions to help you. You can, of course, ask others.
@@ -43,17 +46,16 @@ What relationships do you notice?
 What do you think is the main takeaway from this visualization?
 Is there something you don’t understand in the graphic?
 
+###	Resources: 
 
-Step Two - Get Organized
-Eventually you’ll want to submit your project and share it. To do so, you need to create a zip folder that includes the following:
+https://www.kaggle.com/c/titanic-gettingStarted
 
-links to your Tableau Public workbooks, published online, and a write-up with four sections. See HERE if you need help publishing your Tableau Public Workbook.
-Summary: in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it
-Design: explain any design choices you made including changes to the visualization after collecting feedback
-Feedback: include all feedback you received from others on your visualization from the first sketch to the final visualization
-Resources: list any sources you consulted to create your visualization
-Data Files
-the final data set used to create the visualization (usually .csv, .tsv, or .json file)
-a codebook or other files related to the data set (description, readme, license)
-Step Three - Find a Data Story
-Explore your data set and craft a message or story around your data! Think about the overall message you want to convey and think about the comparison(s) or relationship(s) you want your readers to see. Remember that you will ultimately need to create a visualization that is explanatory, helping lead a reader to identify one or more key insights into the dataset. Feel free to use whatever visualization and data analysis tools you feel comfortable with using at this point in the process.
+https://public.tableau.com/en-us/s/resources
+
+http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.html
+
+### Data Files : titanic-data
+https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d54e6d_titanic-data/titanic-data.csv&sa=D&ust=1517870342478000&usg=AFQjCNFUDJ4ehOrIRdtY7irQwfcHH2jNew
+
+
+
