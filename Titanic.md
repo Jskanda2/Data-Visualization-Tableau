@@ -1,14 +1,15 @@
 
 
 
-Overview: The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. Titanic sank after colliding with an iceberg,
+# Overview
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. Titanic sank after colliding with an iceberg,
 killing 1502 out of 2224 passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of
 people were more likely to survive than others, such as women, children, and the upper-class.
 
 Here I am using given dataset for my analysis and find out what sorts of people were likely to survive and which passengers survived
 the tragedy.
 
-• Summary :
+## Summary :
 1.	Overall, the investigation provided us with some interesting insight based on factors of survivors on the Titanic. 
 Quite a few more people died than those who survived. I am seeing that 549 pasengers died and 342 survived from the given dataset.
 
