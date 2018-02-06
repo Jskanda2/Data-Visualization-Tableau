@@ -53,4 +53,6 @@ http://onlinehelp.tableau.com/current/pro/desktop/en-us/help.html
 https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59d54e6d_titanic-data/titanic-data.csv&sa=D&ust=1517870342478000&usg=AFQjCNFUDJ4ehOrIRdtY7irQwfcHH2jNew
 
 
+# Data Story of Titanic:
 
+Initial Story - https://public.tableau.com/profile/skandarajan.rajaratnam#!/vizhome/DataStoryinTableau-Initial/TitanicStory
