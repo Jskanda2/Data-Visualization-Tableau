@@ -38,8 +38,14 @@ with children influenced or helped the survival rate.
       This option works well for all types of actions.
 
 #### Feedback:
+I send message to slack also. 
 
-Feedback received from others from the first sketch to the final visualization (explain any design choices you made including changes to the visualization after collecting feedback)
+Hello,
+I am not able to use tableau public to publish my worksheet. Because I used personal desktop tableau to create a story. Please help me on this. I need someone to review and give me some feedback according the project  - Data Visualization
+
+How can I send my worksheet to review for the feedback?
+Please help me.
+
 Share a link to your project in the Data Analyst Nanodegree Slack and ask others to share constructive criticisms. Be sure to offer
 advice to others who are seeking feedback too!
 You might need to ask specific questions to prompt the reader. Here are some questions to help you. You can, of course, ask others.
