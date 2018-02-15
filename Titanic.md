@@ -39,7 +39,30 @@ with children influenced or helped the survival rate.
 
 #### Feedback:
 
-I send message to slack for the feedback and published in the Tableau public. 
+I reived the following Feedbck:
+
+1- (slide 1) I recommend replacing the survived sequential palette to a color legend with only 2 colors for survived and not survived. Please note we use the sequential palette when we have a range of data. I also recommend replacing binary values such as 0,1 on legends with descriptive values like “Survived,” “Not Survived.”
+
+2- I would also recommend replacing "Pclass" with a full word like "Ticket Class" to make it more clear. It is a good practice to avoid abbreviations as much as possible.
+
+3- Our color palette on slide 4 is not color-blind friendly. The following chart shows some of the indistinguishable colors for people with this disorder. You can find the colorblind palette in the color legends by going to edit colors then in the opened window by clicking on the dropbox; you can see a colorblind option.
+
+4- I don't recommend using abbreviations in the legends like "parch." Instead, we can replace them with the full words to make the visualization more clear and less confusing.
+
+5- (slide 4) I don't recommend using "number of records" as a label. Instead, we can replace "records" with our target attribute like "passengers". This can make the visualization more clear.
+
+Based on the Feedback,
+1- I replaced the binary values 0 and 1 on legends with descriptive values like “Survived,” “Not Survived.”.  Ubdecided to change the plot's type or any other modifications that you have made.
+Note: Agter published onthe Tableau Public, I noticed, that the "Survied" and "Not Survived" it is not showing on the public url. Please help on this.
+
+2- I replaced "Pclass" with a full word like "Ticket Class" to make it more clear.
+
+3- According the feedback, I change the color palette to colorblind palette in the color legends for those slides.
+
+4-  According to the feedback, I replaced the "parch" to Parents and Children, "Sib Sp" to Sibblings to make the visualization more clear and less confusing.
+
+5- Also, I change the "number of records" label to "Passengers".
+
 
 ####	Resources: 
 
@@ -56,3 +79,5 @@ https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/O
 # Data Story of Titanic:
 
 Initial Story - https://public.tableau.com/profile/skandarajan.rajaratnam#!/vizhome/DataStoryinTableau-Initial/TitanicStory
+
+Final Story -   https://public.tableau.com/profile/skandarajan.rajaratnam#!/vizhome/DataStoryinTableau-Final/TitanicStory
