@@ -39,7 +39,7 @@ with children influenced or helped the survival rate.
 
 #### Feedback:
 
-I reived the following Feedbck:
+I received the following Feedbck:
 
 1- (slide 1) I recommend replacing the survived sequential palette to a color legend with only 2 colors for survived and not survived. Please note we use the sequential palette when we have a range of data. I also recommend replacing binary values such as 0,1 on legends with descriptive values like “Survived,” “Not Survived.”
 
